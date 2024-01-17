@@ -55,5 +55,6 @@ Start the server
 To deploy this project link
 
 ```bash
-https://sanjay-lgtm.github.io/flex_cat_gallry/```
+https://sanjay-lgtm.github.io/flex_cat_gallry/
+```
 
